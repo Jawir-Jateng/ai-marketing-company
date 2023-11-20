@@ -8,7 +8,7 @@ import Banner from './Components/Banner'
 import Hero2 from './Components/Hero2'
 import Hero3 from './Components/Hero3'
 import Slider from './Components/Slider'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 
 function App() {
   return (
