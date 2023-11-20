@@ -1,6 +1,6 @@
 import './Index.css'
 import Hero from './Components/Hero'
-import Header from './components/Header'
+import Header from './Components/Header'
 import Trust from './Components/Trust'
 import SectionLeft from './Components/SectionLeft'
 import SectionRight from './Components/SectionRight'
