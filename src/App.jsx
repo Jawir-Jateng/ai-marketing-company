@@ -1,10 +1,29 @@
-import './App.css'
+import './index.css'
+import Hero from './Components/Hero'
+import Header from './components/Header'
+import Trust from './Components/Trust'
+import SectionLeft from './Components/SectionLeft'
+import SectionRight from './Components/SectionRight'
+import Banner from './Components/Banner'
+import Hero2 from './Components/Hero2'
+import Hero3 from './Components/Hero3'
+import Slider from './Components/Slider'
+import Footer from './Components/footer'
 
 function App() {
   return (
     <>
-      <h1>Hallo wir</h1>
-      <p>Nama saya jawir, asal dari selat sunda</p>
+      <Header />
+      <Hero />
+      <Trust />
+      <SectionLeft />
+      <SectionRight />
+      <Banner />
+      <Hero2 />
+      <Hero3 />
+      <Slider />
+      <Trust />
+      <Footer />
     </>
   )
 }
